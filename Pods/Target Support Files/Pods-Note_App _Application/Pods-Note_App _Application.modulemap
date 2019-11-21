@@ -1,0 +1,6 @@
+framework module Pods_Note_App__Application {
+  umbrella header "Pods-Note_App _Application-umbrella.h"
+
+  export *
+  module * { export * }
+}
